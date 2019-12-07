@@ -1,4 +1,4 @@
-React Redux
+React Redux  添加注释解析
 =========================
 
 Official React bindings for [Redux](https://github.com/reduxjs/redux).  
